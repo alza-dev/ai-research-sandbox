@@ -1,8 +1,8 @@
-# AI Research Sandbox
+# AI Research Sandbox 🔍💻🛠️🦿🦾
 
 This repository serves as a personal workspace for experimental AI research, algorithm testing, and development. 
 
-### 🔬 Focus Areas
+### 🔬 Focus Areas 
 It contains proof-of-concept implementations, testing scripts, and exploratory notebooks focusing on:
 - **Local LLM Inference:** Scripts and configurations for deploying and testing models locally.
 - **Agentic Workflows:** Exploring reflection patterns and self-correction mechanisms in Large Language Models.
